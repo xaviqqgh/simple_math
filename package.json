@@ -1,5 +1,5 @@
 {
-  "name": "simple-math",
+  "name": "simple_maths",
   "version": "0.1.0",
   "description": "Oprations maths",
   "main": "main.js",
@@ -11,9 +11,10 @@
     "url": "git+https://github.com/xaviqqgh/simple_math.git"
   },
   "keywords": [
-    "add"
+    "add",
+	"multiplication"
   ],
-  "author": "JAvier",
+  "author": "Javier",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/xaviqqgh/simple_math/issues"

@@ -1,2 +1,9 @@
 # simple_math
-Ejemplo de paquetas
+=======================================================================
+Ejemplo de paquetes, finalidad de procesos matematicos.
+
+
+
+
+=======================================================================
+2018
