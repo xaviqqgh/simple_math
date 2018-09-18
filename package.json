@@ -2,7 +2,7 @@
   "name": "simple_maths",
   "version": "0.1.18",
   "description": "Oprations maths",
-  "main": "bin/main.js",
+  "main": "main.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
